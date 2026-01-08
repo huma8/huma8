@@ -3,7 +3,7 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=[HUMA8]&fontSize=36&fontColor=58A6FF&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=HUMA8&fontSize=36&fontColor=58A6FF&fontAlignY=50" />
 </p>
 
 <p align="center">
@@ -30,17 +30,15 @@
 <!-- ========================= -->
 
 <p align="center">
-  <a href="[[GITHUB_PROFIL_LINKI](https://github.com/huma8)]">
+  <a href="https://github.com/huma8">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="[[UPWORK_PROFIL_LINKI](https://www.upwork.com/freelancers/~0124db9c44cfaffda4)]">
+  <a href="https://www.upwork.com/freelancers/~0124db9c44cfaffda4">
     <img src="https://img.shields.io/badge/Upwork-0d1117?style=for-the-badge&logo=upwork&logoColor=6FDA44"/>
   </a>
 </p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <!-- ========================= -->
 <!--        ABOUT              -->
@@ -65,12 +63,10 @@
 ### 🛠 Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=godot,python,automation,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=godot,python,flask,vscode&theme=dark" />
 </p>
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <!-- ========================= -->
 <!--        STATS              -->
@@ -79,11 +75,11 @@
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[huma8]&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huma8&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=[huma8]&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=huma8&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -103,8 +99,6 @@
 _(See pinned repos for details.)_
 
 ---
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
 <!-- ========================= -->
 <!--        FOOTER             -->
